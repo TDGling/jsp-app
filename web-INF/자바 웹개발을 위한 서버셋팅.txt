@@ -21,3 +21,9 @@ ____________________________________
     : https://www.apachefriends.org/download.html
 
     (XAMPP는 크로스 플랫폼 웹 서버 무료 소프트웨어 팩키지다.)
+    
+    (4) 자동완성 보완하기
+Preferences > Java > Editor > Content Assist
+
+-> Auto activation triggers for Java
+값: abcdefghijklmnopqrstuvwxyzABCDEFGHYJKLMNOPQRSTUVWXYZ._
